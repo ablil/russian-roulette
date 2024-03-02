@@ -1,1 +1,1 @@
-![russian roulette]('./image.webp')
+![russian roulette](image.webp')
